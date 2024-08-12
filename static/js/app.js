@@ -56,7 +56,7 @@ function buildCharts(sample) {
       }
     }];
     let bubble_layout = {
-      title: 'Bacteria Culters per Sample',
+      title: 'Bacteria Cultures per Sample',
       height: 600,
       width: 1500 
   };
