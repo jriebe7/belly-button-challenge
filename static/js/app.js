@@ -77,7 +77,7 @@ function buildCharts(sample) {
     }];
   
     let bar_layout = {
-    title: 'Top 10 Bacteria Culters Found',
+    title: 'Top 10 Bacteria Cultures Found',
     height: 500,
     width: 1000            
   };    
